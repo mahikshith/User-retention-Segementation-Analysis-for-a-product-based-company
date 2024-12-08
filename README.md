@@ -1,8 +1,10 @@
-# Guruji Astro Deep Analysis Project
+# Guru-cool Data Analysis Project  :
+
+#### Cohort Analysis + Revenue growth Analysis + Customer segmentation for Target Marketing + User retention
 
 ## 📊 Project Overview
 
-A comprehensive data analysis of the Guruji Astro platform's transaction data and user interactions for June-July 2024. This analysis provides insights into user behavior, transaction patterns, and platform performance metrics.
+A comprehensive data analysis of the Guru-cool platform's transaction data and user interactions for June-July 2024. This analysis provides insights into user behavior, transaction patterns, and platform performance metrics.
 
 ## 🎯 Key Objectives
 
@@ -19,6 +21,8 @@ A comprehensive data analysis of the Guruji Astro platform's transaction data an
 - **Data Points**: 12 key metrics per transaction
 
 ### Key Metrics
+
+>Check the code for detailed Analysis
 
 #### Transaction Statistics
 - **Total Transaction Amount**: ₹964,850
@@ -154,6 +158,8 @@ A comprehensive data analysis of the Guruji Astro platform's transaction data an
 
 ## 📝 Recommendations
 
+>Check the code for detailed recommendations
+
 1. **Platform Optimization**
    - Focus on popular payment modes
    - Optimize for peak usage times
@@ -182,12 +188,7 @@ A comprehensive data analysis of the Guruji Astro platform's transaction data an
 git clone [repository-url]
 ```
 
-2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-3. Run Jupyter Notebook
+2. Run Jupyter Notebook
 ```bash
 jupyter notebook "Deep Analysis.ipynb"
 ```
@@ -195,13 +196,4 @@ jupyter notebook "Deep Analysis.ipynb"
 ## 📫 Contact
 
 For questions or feedback about this analysis, please contact:
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-*Note: This analysis was conducted on transaction data from June-July 2024. For the most recent analysis, please refer to the latest version of the notebook.*
+- LinkedIn: [https://www.linkedin.com/in/mahikshith]
