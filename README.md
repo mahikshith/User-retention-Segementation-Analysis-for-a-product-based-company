@@ -1,10 +1,8 @@
-# Guru-cool Data Analysis Project  :
-
-#### Cohort Analysis + Revenue growth Analysis + Customer segmentation for Target Marketing + User retention
+# Cohort Analysis + Revenue growth Analysis + Customer segmentation for Target Marketing + User retention for a product company
 
 ## 📊 Project Overview
 
-A comprehensive data analysis of the Guru-cool platform's transaction data and user interactions for June-July 2024. This analysis provides insights into user behavior, transaction patterns, and platform performance metrics.
+A comprehensive data analysis of the company's platform's transaction data and user interactions for June-July 2024. This analysis provides insights into user behavior, transaction patterns, and platform performance metrics.
 
 ## 🎯 Key Objectives
 
