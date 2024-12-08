@@ -48,12 +48,15 @@ A comprehensive data analysis of the company's platform's transaction data and u
 
 **Key Insights:**
 - Shows how well different user cohorts are retained over time
+- [0,1,2] indicate first , second and third months from the start date
 - Darker colors indicate higher retention rates
 - Helps identify which user acquisition periods produced the most loyal customers
 - Reveals patterns in user engagement and loyalty across different time periods
 
 ### 2. Average Transaction Amount by Cohort
 ![Average Transaction Analysis](assets/Average_transaction_amount_cohort.png)
+
+- [0,1,2] indicate first , second and third months from the start date
 
 **Key Insights:**
 - Displays the distribution of transaction amounts across different user cohorts
@@ -63,6 +66,8 @@ A comprehensive data analysis of the company's platform's transaction data and u
 
 ### 3. Customer Segmentation Analysis
 ![Customer Segmentation](assets/Customer_segmentation_analysis.png)
+
+- [0,1,2] indicate first , second and third months from the start date
 
 **Key Insights:**
 - Visualizes customer segments based on recency, frequency, and monetary value
